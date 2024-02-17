@@ -30,3 +30,9 @@ the combined dataset to the ml model.
 4. The CNN-LSTM( ML model ), classifies the input video data points of 60 frames into one
 of the eight categories, we initially trained our model on.
 5. The App displays the output of the ML model to the user.
+
+![image](https://github.com/Shivansh34/gethelpisl/assets/56562345/d6ec9281-80e8-4038-8c63-e37af76a6205)
+![image](https://github.com/Shivansh34/gethelpisl/assets/56562345/cce511e5-3b71-4061-bc99-091f4189b70b)
+
+
+
